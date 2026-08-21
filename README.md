@@ -28,7 +28,7 @@ and RED states with configurable timer durations.
 | RED | 5 cycles | Red light ON |
 
 ## How to Simulate
-1. Open [EDA Playground](your-link-here)
+1. Open [EDA Playground](https://edaplayground.com/x/6yKu))
 2. Paste traffic_light.sv in Design tab
 3. Paste tb_traffic_light.sv in Testbench tab
 4. Select Icarus Verilog 0.9.7
